@@ -1,0 +1,21 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;600&family=Tilt+Warp&display=swap');
+
+*{
+    margin: 10;
+    padding: 10;
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+h3 {
+    font-size: 24px;
+    font-family: 'Montserrat', sans-serif;
+}
+
+p {
+    font-family: 'Tilt Warp', cursive;
+}
+
